@@ -1,4 +1,6 @@
-## Hi there 👋
+## Bonjour from France 👋
+
+I'm a 14 years old kid who live in France.
 
 <!--
 **PseudoCode109O/PseudoCode109O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
