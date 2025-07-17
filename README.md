@@ -1,7 +1,10 @@
 ## Bonjour from France 👋
 
 I'm a 14-year-old kid who lives in France
+
 I like rendering shits on screens
+
+
 
 Reach me on Discord : @PseudoCode1090
 
